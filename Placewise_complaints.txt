@@ -78,7 +78,7 @@
 		<li>
 			Attached file:<br>
 			<audio controls="controls" autoplay>
-				<source src="complaint_audio.mp3" type="audio.mp3">
+				<source src="complaint_audio.mp3" type="audio/mp3">
 			</audio>
 		</li>
 		</ol> 
