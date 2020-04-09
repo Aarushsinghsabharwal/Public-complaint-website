@@ -48,7 +48,7 @@
           text-shadow: 2px 2px black;
 	}
 </style>
-<body style="background-color:pink; background-image:url(help.jpg); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
+<body style="background-color:pink; background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5L6bE9BG2dOMWTxRbsXXgQHaHa%26pid%3DApi&f=1); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
 	<div align="center" id="container">
 		<ul>
 			<li>MENU
