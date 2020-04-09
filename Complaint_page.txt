@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Complaint Page</title>
+<style type="text/css">
+	h1.heading1
+	{
+          font-style:italic;
+          font-family: Ahoroni;
+          color: green;
+          
+	}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ <meta charset="utf-8">
+</head>
+<body style="background-color: pink; background-image:url(help.jpg); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
+	<div align="center">
+		<h1 class="heading1"><u>Complaint page</u></h1>
+		<a href="helping_hands.html" target="blank">Homepage</a>&nbsp;
+		<a href="typewise.html" target="blank">Type wise complaints</a>&nbsp;
+        <a href="placewise.html" target="blank">Place wise complaints</a>&nbsp;
+        <a href="complaintgallery.html" target="blank">Gallery</a>
+	</div>
+	<div style="text-transform: capitalize; background-color:powderblue; margin-right:300px; margin-left: 300px;">
+		<marquee ><strong>helping</strong> hands are better than<strong> praying</strong> lips - <i>mother teresa</i> </marquee>
+	</div>
+	<br>
+    <form action="submit" method="POST">
+	<fieldset style="width: 900px;background:url(https://media.swncdn.com/cms/BST/40624-thankfulhands-hands-reaching-prayer.800w.tn.jpg);">
+		<legend>Complaint Details</legend>
+    	<ol>
+    	<li style="font-weight: bold">Type of complaint
+    	<select>
+    		<option disabled value="0">Complaint type</option>
+    		<option value="1">Administrative</option>
+            <option value="2">Law and order</option>
+            <option value="3">Behavioural</option>
+            <option value="4">Maintenance</option>
+    	</select>
+    	<br>
+    	(*Any other)
+    	<br>
+    	<textarea placeholder="miscellaneous complaint"></textarea>
+        </li>
+        <br>
+        <li style="font-weight: bold">
+        	Enter the name of your city/town/village
+            <input type="text " name="place" placeholder="city/town/village">
+            <br>
+            Enter the name of your district
+            <input type="text" name="district" placeholder="district">
+            <br>
+            Enter the name of your Home State
+            <input type="text" name="state" placeholder="state">
+        </li>
+        <br>
+        <li style="font-weight: bold">
+        	On what date did the incident took place?
+        	<input type="date" name="date" id="date">
+        </li>
+        <br>
+        <li style="font-weight: bold">
+        	Kindly enter a brief description about the complaint
+            <br>
+        	<textarea placeholder="Description about the complaint"></textarea>
+        </li>
+    </ol>
+    </fieldset>
+    <fieldset>
+    	<legend>Personal Information</legend>
+    	Your name&nbsp;<input type="textbox" name="name" placeholder="Your name">
+    	<br>
+    	Email&nbsp;<input type="email" name="email" placeholder="Email"><em>(*optional)</em>
+        <br>Aadhar Card Number&nbsp;<input type="text" name="aadhar no">
+        <br>
+        Attach file:&nbsp;&nbsp;&nbsp;&nbsp;<input type="file" name="attachment">
+        <br>
+        <input type="submit" value="submit">
+    </fieldset>
+    </form>
+</body>
+</html>

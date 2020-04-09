@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>typewise complaint</title>
+	<source src="complaintpage.html">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	 <meta charset="utf-8">
+</head>
+<style type="text/css">
+	h1.heading1
+	{
+          font-style:italic;
+          font-family: Ahoroni;
+          color: green;
+          
+	}
+</style>
+	<body style="background-color: pink; background-image:url(help.jpg); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
+	<div align="center">
+		<h1 class="heading1"><u>Typewise Compaint Page</u></h1>
+		<a href="helping_hands.html" target="blank">Homepage</a>&nbsp;
+        <a href="placewise.html" target="blank">Place wise complaints</a>&nbsp;
+        <a href="complaintgallery.html" target="blank">Gallery</a>
+	</div>
+	<div style="text-transform: capitalize; background-color:powderblue; margin-right:300px; margin-left: 300px;">
+		<marquee ><strong>helping</strong> hands are better than<strong> praying</strong> lips - <i>mother teresa</i> </marquee>
+	</div>
+	<br><br>
+	<div style="border:solid;margin-right:220px; background-color:lightyellow;">
+		<ol>
+		<li>Complaint type: Behavioural</li>
+		<li>Complaint number: B01</li>
+		<li>Date of incident: 1/03/2020</li>
+		<li>Complaint filed By: Mohan Prakash</li>
+		<li>Email-id: mohanprakash@gmail.com</li>
+		<li>Aadhar Number: 1122 3344 5566</li>
+		<li>Complaint Description:
+		Rude behaviour of a government employee.<br>
+		Recently I went to make a biometric update in my aadhar card. There while standing in a queue, I asked when my turn would come. The person sitting in front of me, Mr.Anuj Kumar replied rudely saying harsh words to me. He also threatened me that he would throw me out. This type of behaviour is not expected from a public servant. I put up a letter in the complaint box but it was of no use. Kindly help. 
+		</li>
+		<li>
+			Attached file:<br>
+			<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.paisabazaar.com%2Fwp-content%2Fuploads%2F2018%2F06%2FAadhaar-helps-the-government-and-the-citizens.jpg&f=1&nofb=1">
+		</li>
+		</ol> 
+	</div>
+	<br>
+	<div style="border:solid;margin-right:220px;background-color: white;">
+		<ol>
+		<li>Complaint type: Maintenance</li>
+		<li>Complaint number: M01</li>
+		<li>Date of incident: 11/03/2020</li>
+		<li>Complaint filed By: Ram Singh</li>
+		<li>Email-id: ramsingh2010@gmail.com</li>
+		<li>Aadhar Number: 2029 3632 8506</li>
+		<li>Complaint Description:
+		Compaint regarding the poor maintenance of public toilets.<br>
+		The public toilets nearby our locality has recently been reconstructed. It was reconstructed deprived of sewage and waste disposal system.As there is no waste disposal, so it stinks badly and creates a problem for the people in the locality. Our locality memebers have filled several complaints to the municipal committee but till this date no action has been taken.
+		</li>
+		<li>
+			Attached file<br>
+			<img src="http://si.wsj.net/public/resources/images/OB-TK278_itoile_H_20120618004246.jpg">
+		</li>
+		</ol> 
+	</div>
+	<br>
+	<div style="border:solid;margin-right:220px;background-color: lightgrey;">
+		<ol>
+		<li>Complaint type: Law and order</li>
+		<li>Complaint number: LO01</li>
+		<li>Date of incident: 28/01/2020</li>
+		<li>Complaint filed By: Pritam Sharma</li>
+		<li>Email-id: pritam.sharma0088@gmail.com</li>
+		<li>Aadhar Number: 2249 5672 9026</li>
+		<li>Complaint Description:
+		Lose traffic police control and disobey of traffic rules<br>
+		Daily I go to my office by car. There everyday I get struck in traffic because some people do not obey the traffic rules, despite the fact that police is standing in front of them. Policemen only stand roadside, with a cup of tea in their hands, gossiping with each other. There is no law and order enforcement from their side. I wonder why are they getting paid for it. I have an audio file with me. 
+		</li>
+		<li>
+			Attached file:<br>
+			<audio controls="controls" autoplay>
+				<source src="complaint_sound.mp3" type="audio.mp3">
+			</audio>
+		</li>
+		</ol> 
+	</div>
+</body>
+</html>

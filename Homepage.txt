@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Helping hands</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta charset="utf-8">
+</head>
+<script type="text/javascript">
+	alert("Welcome to HELPING HANDS")
+</script>
+<style type="text/css">
+	
+	#container ul
+	{
+		list-style: none;
+		margin: 0px;
+		padding: 0px;
+	}
+	#container ul li
+	{
+		background-color: orange;
+		width: 150px;
+		border:1px solid white;
+		text-align: center;
+		float: left;
+		color: white;
+		font-family: arial;
+	}
+	#container ul li:hover
+	{
+		background-color:lightgreen;
+	}
+	#container ul ul
+	{
+		display: none;
+	}
+	#container ul li:hover > ul
+	{
+		display: block;
+	}
+	h1.heading1
+	{
+          font-style:italic;
+          font-family: algerian;
+          color: green;
+          font-size: 40px;
+          margin-right: 150px;
+          text-shadow: 2px 2px black;
+	}
+</style>
+<body style="background-color:pink; background-image:url(help.jpg); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
+	<div align="center" id="container">
+		<ul>
+			<li>MENU
+<ul>
+	<li><a href="typewise.html" target="blank">Type wise complaints</a></li>
+	<li><a href="placewise.html" target="blank">Place wise complaints</a></li>
+	<li><a href="complaintgallery.html" target="blank">Gallery of complaints</a></li>
+</ul>
+			</li>
+		</ul>
+	</div>
+	<div align="center">
+		<h1 class="heading1"><u>Helping hands</u></h1>
+<!-- 		<a href="complaintpage.html" TARGET="blank">Complaint Page</a>
+ -->        
+	</div>
+	<div style="text-transform: capitalize; background-color:powderblue; margin-right:300px; margin-left: 300px;">
+		<marquee ><strong>helping</strong> hands are better than<strong> praying</strong> lips - <i>mother teresa</i> </marquee>
+	</div>
+	<br><br>
+	<table align="left" style="background-color: white; border-width: 20;border-color: red ; height: 350px; width: 350px; background-image: url(https://images.squarespace-cdn.com/content/54ac8cfee4b0b365f781ae44/1507181276952-R340F7ROCSQGOH1H61LA/world-charity-day-background-of-hands-with-a-heart_23-2147665869.jpg?content-type=image%2Fjpeg);" border="5">
+		<h1 align="left" style="font-family: Times new roman ; text-shadow:2px 2px red;">
+			About Us
+		</h1>
+		<th>We are the concerned citizens of the country who try to improve the coordination between the public and the concerned authorities with the hope that the problems of the people (from all corners of the country) are highlighted and brought to their attention.<br>
+		<a href="complaintpage.html" target="blank">Visit the complaint page</a>
+	</th>
+	</table>
+	<h1 style="margin-right: 120px; text-shadow: 2px 2px blue;margin-left: 630px;">&nbsp;&nbsp;Our Objective</h1>
+	<table align="center" style="background-color: white ;font-family: arial black; width: 750px; border-color: blue; font-size: 25px ;background-color:gold;"border="5">
+        <th>We <strong>aim</strong> to take grivences of the public to the authorities so that the   <i>voice</i> of the <em>comman</em> could be heard and necessary <em>action</em> could be taken.
+        	<img src="https://cdn.dribbble.com/users/435189/screenshots/2706644/helping_hand.gif">
+		</th>
+	</table>
+	&copy;All rights reserved
+	
+</body>
+</html>

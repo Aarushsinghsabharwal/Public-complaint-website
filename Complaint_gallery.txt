@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>complaint gallery</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta charset="utf-8">
+</head>
+<style type="text/css">
+	h1.heading1
+	{
+          font-style:italic;
+          font-family: Ahoroni;
+          color: green;
+          
+	}
+</style>
+	<body style="background-color: pink; background-image:url(help.jpg); background-attachment: scroll; background-repeat: no-repeat; background-position: top right;">
+	<div align="center">
+		<h1 class="heading1"><u>Complaint Gallery</u></h1>
+		<a href="helping_hands.html" target="blank">Homepage</a>&nbsp;
+        <a href="typewise.html" target="blank">Type wise complaints</a>&nbsp;
+        <a href="placewise.html" target="blank">Place wise complaints</a>
+        <a href="complaintpage.html" target="blank">Complaint Page</a>
+	</div>
+	<div style="text-transform: capitalize; background-color:powderblue; margin-right:300px; margin-left: 300px;">
+		<marquee ><strong>helping</strong> hands are better than<strong> praying</strong> lips - <i>mother teresa</i> </marquee>
+	</div>
+	<br><br>
+		<!-- Place: abc,def,ghij &nbsp;&nbsp;
+		Date of incident: 1/03/2020<br>
+	: Mohan Prakash
+		
+		Place:city,district,state&nbsp;&nbsp;
+		Date of incident: 11/03/2020<br>
+		Complaint filed By: Ram Singh
+	
+		Place: XXXXX,DDDDD,sssss&nbsp;&nbsp;
+		Date of incident: 28/01/2020<br>
+		Complaint filed By: Pritam Sharma -->
+		<table border style="border:double;border-color: black;width: 1000px;" cellspacing="0">
+			<thead>
+				<th>Complaint filed By</th>
+				<th>Place</th>
+				<th>Date of incident</th>
+				<th>Type of Complaint</th>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Mohan Prakash</td>
+					<td>XXXXX</td>
+					<td>1/03/2020</td>
+					<td>Behavioural</td>
+				</tr>
+				<tr>
+					<td>Ram Singh</td>
+					<td>YYYYY</td>
+					<td>11/03/2020</td>
+					<td>Maintenance</td>
+				</tr>
+				<tr>
+					<td>Pritam Sharma</td>
+					<td>ZZZZZ</td>
+					<td>28/01/2020</td>
+					<td>Law and Order</td>
+				</tr>
+				<tr>
+					<td>Sohan Prakash</td>
+					<td>LLLLL</td>
+					<td>30/07/2019</td>
+					<td>Behavioural</td>
+				</tr>
+				<tr>
+					<td>Aditya Singh</td>
+					<td>KKKKK</td>
+					<td>11/07/2019</td>
+					<td>Maintenance</td>
+				</tr>
+				<tr>
+					<td>Pritam Sharma</td>
+					<td>JJJJJ</td>
+					<td>27/06/2019</td>
+					<td>Law and Order</td>
+				</tr>
+				<tr>
+					<td>Mohan Prakash</td>
+					<td>IIIII</td>
+					<td>17/05/2019</td>
+					<td>Behavioural</td>
+				</tr>
+				<tr>
+					<td>Ram Singh</td>
+					<td>HHHHH</td>
+					<td>1/05/2019</td>
+					<td>Administrative</td>
+				</tr>
+				<tr>
+					<td>Pritam Sharma</td>
+					<td>GGGGG</td>
+					<td>28/04/2019</td>
+					<td>Maintenance</td>
+				</tr>
+				<tr>
+					<td>Mohan Prakash</td>
+					<td>FFFFF</td>
+					<td>18/04/2019</td>
+					<td>Administrative</td>
+				</tr>
+				<tr>
+					<td>Ram Singh</td>
+					<td>EEEEE</td>
+					<td>11/04/2019</td>
+					<td>Behavioural</td>
+				</tr>
+				<tr>
+					<td>Pritam Singh</td>
+					<td>DDDDD</td>
+					<td>2/04/2019</td>
+					<td>Law and Order</td>
+				</tr>
+				<tr>
+					<td>Rohan Ram</td>
+					<td>CCCCC</td>
+					<td>14/03/2019</td>
+					<td>Law and Order</td>
+				</tr>
+				<tr>
+					<td>Ram </td>
+					<td>BBBBB</td>
+					<td>8/03/2018</td>
+					<td>Maintenance</td>
+				</tr>
+				<tr>
+					<td>Pritam Sharma</td>
+					<td>AAAAA</td>
+					<td>8/02/2018</td>
+					<td>Law and Order</td>
+				</tr>
+			</tbody>
+		</table>
+</body>
+</html>
